@@ -1,0 +1,25 @@
+.bookList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bookItem {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.bookItem:hover {
+  background-color: #e0e0e0;
+}
+
+.selectedBook {
+  background-color: #d0e0ff;
+  border-color: #4a90e2;
+}
+

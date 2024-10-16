@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "a6fab9a9-6f1b-425b-9704-a1dd8c0d1bb3",
+      "email": "testuser@example.com",
+      "password": "$2a$10$OfXRB85TTyv1cgRuL1R6zegmg5gmxyS/FAHm6Nz1MK.9MlJiZW9o2",
+      "role": "Author"
+    },
+    {
+      "id": "a33212aa-edfd-46bb-8836-55a921765e81",
+      "email": "check@email.com",
+      "password": "$2a$10$jEJHVfV.P5o9cxie0KmkY.S4jl7qdN9VN52jZDXlAMl4pPRbhJFmC",
+      "role": "Author"
+    },
+    {
+      "id": "3790462c-90b3-421b-987f-c14c96bb6866",
+      "email": "test@email.com",
+      "password": "$2a$10$TluFJDSeHdlj0Xoelq.vxeQ.0BCLIEvqWV2f/nBiw2yH3AnVdfVGC",
+      "role": "Author"
+    },
+    {
+      "id": "425198da-aea7-4f21-b471-888fa45a6178",
+      "email": "new@email.com",
+      "password": "$2a$10$i3GHc.2X7lxfcjhJXnnyQ.G.IDl5LUQ.zE/KCL11QsAE8vNcTpZEW",
+      "role": "Collaborator"
+    },
+    {
+      "id": "2999b4b2-aac1-4b2f-8807-484bba92e017",
+      "email": "stormentjd@gmail.com",
+      "password": "$2a$10$Bj7Cu.YUBOj3GarmW.9QauDaSymWLjLDG2zc5cnmcOiTAWdRtHDxe",
+      "role": "Author"
+    },
+    {
+      "id": "574d49e4-eec4-4d00-93a0-7dcb62a660ed",
+      "email": "jstorment1998@gmail.com",
+      "password": "$2a$10$GV8GYcCW4iFZYwd6ceI8hOs25/dktJbTWr12HGmkGTr9K4pE/75Qy",
+      "role": "Author"
+    },
+    {
+      "id": "ebf7692b-d668-4d9e-b1a9-237bae31864e",
+      "email": "jstorment19989@gmail.com",
+      "password": "$2a$10$3LcH.cZ2sLqoWZxrtMcX6uSNQFaxPklkqX/DJ8X3gF6qP1Fz.SL6a",
+      "role": "Author"
+    },
+    {
+      "id": "6eebf55e-24d8-4e4f-bd65-a73ccc30e568",
+      "email": "jstorment199899@gmail.com",
+      "password": "$2a$10$nocCxKwBLYp1SlvIfwTvouyokjU9DlpAKf4D4rA/0qckQU4EbxjP2",
+      "role": "Collaborator"
+    },
+    {
+      "id": "96e883a7-01b6-4b91-a8db-b9482e251f96",
+      "email": "stormentjd123@gmail.com",
+      "password": "$2a$10$pZKGLthHhQYTY4n1qirt6eTPfkAMBC8oMcONeCHOdkoaNWbylC/Aa",
+      "role": "Author"
+    }
+  ],
+  "sections": [
+    {
+      "id": "39a5410d-b34f-4930-b776-33e9323a4021",
+      "name": "Introduction Section",
+      "subsections": [],
+      "userId": "a6fab9a9-6f1b-425b-9704-a1dd8c0d1bb3"
+    },
+    {
+      "id": "e8bfcc9f-3278-46a9-bd4b-ede8b3c3e1bc",
+      "name": "New",
+      "subsections": [
+        {
+          "id": "3ac5b68a-38f3-4187-a6a1-0332e3275746",
+          "name": "newww",
+          "subsections": []
+        }
+      ],
+      "userId": "425198da-aea7-4f21-b471-888fa45a6178"
+    },
+    {
+      "id": "d29a80e8-a5e2-4bf6-b887-ef492ce2b4c3",
+      "name": "This is a cat",
+      "subsections": [],
+      "userId": "a33212aa-edfd-46bb-8836-55a921765e81"
+    },
+    {
+      "id": "5b1d5d23-9960-494a-9ec1-27aa12563d93",
+      "name": "Introduction",
+      "subsections": [
+        {
+          "id": "d418d495-98af-4bfb-be06-aa3088901b33",
+          "name": "Intro To Platform",
+          "subsections": []
+        }
+      ],
+      "userId": "ebf7692b-d668-4d9e-b1a9-237bae31864e"
+    },
+    {
+      "id": "234aa9c9-612a-4005-b933-5a5993d1ea08",
+      "name": "hi",
+      "subsections": [],
+      "userId": "6eebf55e-24d8-4e4f-bd65-a73ccc30e568"
+    },
+    {
+      "id": "f4f59bf7-a52b-492f-ad54-0d30e9a814d6",
+      "name": "Intro",
+      "subsections": [
+        {
+          "id": "e6320f8a-d755-4ac4-ade4-b8fb3f87cc8e",
+          "name": "Intro subsection",
+          "subsections": []
+        }
+      ],
+      "userId": "2999b4b2-aac1-4b2f-8807-484bba92e017"
+    }
+  ]
+}
